@@ -1,16 +1,25 @@
-[
+[{
+"nome": "gabriel", 
+"dataNascimento": "04/10/2001", 
+"cpf": "11624235441", 
+"sexo": "M", 
+"peso": "58kg", 
+"tipoSanguineo": "A+", 
+"endereco": {
 
-{
+    "pais" : "brasil", 
+    "estado": "pernambuco", 
+    "bairro": "jardim são paulo", 
+    "rua": "osorio borba", 
+    "numero": 180, 
+    "cep": "50781700" 
+},
 
-"nome":"Bruno Isnard",
-"telefone":["88888888","9999999","5555555" ],
-"endereço":"",
-"cpf":"0000000",
+"telefone": ["(81) 9 9604-8665", "(81) 9 9999-9999"], 
+"indicaAmigos": true, 
+"email": "EMAIL",
+"permissaoNotificacao": true, 
+"tatto": true,
+"tempoTatto": 0 
 
-
-
-
-
-}
-
-]
+}]
