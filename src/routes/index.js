@@ -6,7 +6,7 @@ router.get("/", function (req,res)
 {
     res.status(200).send({
         title:"Hello Word!",
-        Version:"10.0.0"
+        Version:"1.0.0"
     })
 })
 
